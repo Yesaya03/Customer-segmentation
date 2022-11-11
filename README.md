@@ -94,6 +94,8 @@ From the data above, there is also a visible pattern where in the three-year per
   * Frequency - How often a customer buys from us.
   * Monetary value - The total value of purchases a customer has made.
  
+ * In this RFM Model assigns a score of 1-4 (from best to worst) for customers in each of the three categories. The best RFM score is the one with the smallest values    for each variable, we use a 1 to 4 scale for recency, frequency, and monetary, with 1 being the highest, then the perfect RFM score is 111.
+ 
  ## Labeling
  
 ![labeling](https://user-images.githubusercontent.com/61875831/201364359-5f0ef4dc-8a16-4177-99c0-7265966a6837.png)
