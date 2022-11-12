@@ -100,7 +100,7 @@ From the data above, there is also a visible pattern where in the three-year per
  
  ## Labeling
  
-![label](https://user-images.githubusercontent.com/99872829/201459322-b717ce63-88d1-43fa-9ef1-0be763e6e6fe.JPG)
+![labeling](https://user-images.githubusercontent.com/99872829/201459637-ea2e68fd-58e4-49a0-88ca-999aeb97a381.JPG)
 
 From the graph above, it is known that there are 6 categories of customers.
 The most customer category is **Loyal Customer** and the least is **Almost lost** customer.
